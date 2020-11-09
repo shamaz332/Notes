@@ -15,3 +15,27 @@
 ✅ Ecommerce is fragmenting. Shopify may be the glue that holds it together 👉 https://www.protocol.com/shopify-plan-to-dominate-ecommerce
 
 ✅ THE CURRENT STATE OF PROGRESSIVE WEB APPS 👉 https://www2.stardust-testing.com/en/the-current-state-of-progressive-web-apps
+
+
+😀😀😀😀Managing State with Redux Toolkit and Building API Mocking Servers with Mirage😀😀😀😀
+
+✅Three Dots in JS  👉 https://dev.to/sagar/three-dots---in-javascript-26ci
+
+✅Using Redux with React Hooks  👉 https://thoughtbot.com/blog/using-redux-with-react-hooks
+
+✅Three Dots in JS  👉 https://dev.to/sagar/three-dots---in-javascript-26ci
+
+✅Three Dots in JS  👉 https://dev.to/sagar/three-dots---in-javascript-26ci
+
+✅Three Dots in JS  👉 https://dev.to/sagar/three-dots---in-javascript-26ci
+
+
+////////////////////////////////////////////////////////////////////
+
+😀😀😀😀😀😀😀😀😀😀😀😀😀😀FaunaDB😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀
+Netlify Functions Examples:
+https://functions-playground.netlify.app/
+
+Function Examples:
+https://functions.netlify.com/examples/
+
